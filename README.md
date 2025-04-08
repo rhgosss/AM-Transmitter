@@ -1,5 +1,5 @@
 # AM-Transmitter
-#Analyzing an AM Transmitter for future use in NTUA Labs
+
 This repository documents the steps that my colleague Leonidas Georgiou and I followed in order to analyze an AM transmitter.
 
 We present our entire thought process, the methodology we followed, and the decisions we made along the way. Additionally, we provide a comprehensive guide to help future students or researchers in NTUA Labs working on AM receivers.
